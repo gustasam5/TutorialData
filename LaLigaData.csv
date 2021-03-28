@@ -1,0 +1,284 @@
+﻿Player,Team,Position,Age,Market value,Contract expires,Matches played,Minutes played,Goals,xG,Birth country,Passport country,Foot,Height,Weight,On loan
+J. Oblak,Atlético Madrid,GK,28,90000000,2023-06-30,28,2687,0,0,Slovenia,Slovenia,right,188,87,no
+João Félix,Atlético Madrid,"CF, AMF",21,80000000,2026-06-30,24,1453,7,5.71,Portugal,Portugal,right,181,72,no
+L. Messi,Barcelona,"CF, RWF, RAMF",33,80000000,2021-06-30,26,2365,23,20.4,Argentina,"Argentina, Spain",left,170,72,no
+F. de Jong,Barcelona,"LDMF, LCMF, RCMF",23,80000000,2026-06-30,28,2512,3,2.63,Netherlands,Netherlands,right,180,74,no
+M. ter Stegen,Barcelona,GK,28,75000000,2025-06-30,22,2111,0,0,Germany,Germany,right,187,85,no
+T. Courtois,Real Madrid,GK,28,75000000,2024-06-30,28,2672,0,0,Belgium,Belgium,left,200,96,no
+Marcos Llorente,Atlético Madrid,"RCMF, RCMF, CF",26,70000000,2024-06-30,28,2310,9,4.11,Spain,Spain,right,184,74,no
+Pedri,Barcelona,"LCMF, AMF, LCMF",18,70000000,2022-06-30,28,1921,2,2.28,Spain,Spain,right,174,60,no
+Mikel Oyarzabal,Real Sociedad,"LWF, LW, LAMF",23,70000000,2024-06-30,23,1726,10,9.87,Spain,Spain,left,181,79,no
+Casemiro,Real Madrid,DMF,29,70000000,2023-06-30,25,2242,5,4.45,Brazil,"Brazil, Spain",right,185,84,no
+R. Varane,Real Madrid,RCB,27,70000000,2022-06-30,27,2578,2,2.96,France,"France, Martinique",right,191,81,no
+F. Valverde,Real Madrid,"RCMF, RCMF, RWF",22,70000000,2025-06-30,19,1007,3,2.4,Uruguay,"Uruguay, Spain",right,182,78,no
+J. Koundé,Sevilla,RCB,22,60000000,2024-06-30,24,2220,1,2.18,Benin,Benin,right,180,75,no
+Koke,Atlético Madrid,"DMF, LCMF, RCMF",29,60000000,2024-06-30,27,2350,1,0.7,Spain,Spain,right,176,75,no
+J. Giménez,Atlético Madrid,"CB, LCB, RCB",26,60000000,2023-06-30,15,1317,0,1.38,Uruguay,"Uruguay, Spain",right,185,79,no
+A. Griezmann,Barcelona,"CF, LWF, AMF",30,60000000,2024-06-30,26,1914,8,8.59,France,France,left,176,73,no
+Saúl Ñíguez,Atlético Madrid,"LCMF, LCMF, LWB",26,55000000,2026-06-30,23,1453,2,2.92,Spain,Spain,left,184,75,no
+Diego Carlos,Sevilla,LCB,28,50000000,2024-06-30,24,2161,1,1.45,Brazil,Brazil,right,185,79,no
+Pau Torres,Villarreal B,LCB,24,50000000,2024-06-30,26,2502,2,1.28,Spain,Spain,left,191,80,no
+O. Dembélé,Barcelona,"RWF, CF, RAMF",23,50000000,2022-06-30,22,1389,4,3.5,France,"France, Mauritania",both,178,67,no
+T. Kroos,Real Madrid,"LCMF, LDMF, LCMF",31,50000000,2023-06-30,25,2029,2,2.39,Germany,Germany,right,183,76,no
+F. Mendy,Real Madrid,LB,25,50000000,2025-06-30,24,2149,1,1,France,"France, Senegal",left,180,73,no
+L. Ocampos,Sevilla,"LWF, RWF",26,40000000,2024-06-30,24,1962,4,7.49,Argentina,Argentina,right,187,84,no
+Á. Correa,Atlético Madrid,"RW, CF",26,40000000,2024-06-30,28,1748,4,4.44,Argentina,"Argentina, Spain",right,171,70,no
+Mikel Merino,Real Sociedad,"LCMF, LCMF, LDMF",24,40000000,2025-06-30,26,2280,2,5.38,Spain,Spain,left,189,83,no
+Vinícius Júnior,Real Madrid,"LWF, LAMF, LW",20,40000000,2025-06-30,25,1462,3,4.44,Brazil,"Brazil, Spain",right,176,73,no
+Gerard Moreno,Villarreal,"CF, RWF",28,35000000,2023-06-30,23,2120,16,13.48,Spain,Spain,left,180,77,no
+José Gayá,Valencia,LB,25,35000000,2023-06-30,24,2281,0,1.04,Spain,Spain,left,172,66,no
+Carlos Soler,Valencia,RCMF,24,35000000,2023-06-30,23,2113,7,7.13,Spain,Spain,right,180,76,no
+Y. Carrasco,Atlético Madrid,"LW, LWB, LB",27,35000000,2024-06-30,21,1467,2,3.27,Belgium,"Belgium, Spain",right,185,73,no
+Mario Hermoso,Atlético Madrid,"LCB, LB, LCB",25,35000000,2024-06-30,23,2158,1,0.69,Spain,Spain,left,185,76,no
+Marco Asensio,Real Madrid,"RWF, LWF, RW",25,35000000,2023-06-30,25,1442,3,2.38,Spain,"Spain, Netherlands",left,182,76,no
+Unai Simón,Athletic Bilbao,GK,23,30000000,2025-06-30,28,2677,0,0,Spain,Spain,right,190,89,no
+Y. En-Nesyri,Sevilla,CF,23,30000000,2025-06-30,28,1797,15,10.92,Morocco,Morocco,left,189,73,no
+Joan Jordán,Sevilla,"RCMF, RCMF",26,30000000,2023-06-30,26,1903,1,1.04,Spain,Spain,right,184,74,no
+A. Isak,Real Sociedad,CF,21,30000000,2024-06-30,24,1668,12,11.31,Sweden,"Sweden, Eritrea",right,192,77,no
+N. Fekir,Real Betis,"AMF, CF",27,25000000,2023-06-30,25,2129,3,8.38,France,"France, Algeria",left,173,72,no
+Emerson,Real Betis,RB,22,25000000,2024-06-30,24,2237,1,0.36,Brazil,Brazil,right,181,79,no
+Iñaki Williams,Athletic Bilbao,"CF, RAMF",26,25000000,2028-06-30,28,2146,5,6.55,Spain,"Spain, Ghana",right,186,80,no
+Íñigo Martínez,Athletic Bilbao,LCB,29,25000000,2023-06-30,22,2109,0,0.64,Spain,Spain,left,182,77,no
+Maxi Gómez,Valencia,CF,24,25000000,2024-06-30,24,2268,5,4.42,Uruguay,Uruguay,right,186,87,no
+S. Savić,Atlético Madrid,"RCB, RCB",30,25000000,2023-06-30,25,2400,0,0.16,Montenegro,"Montenegro, Serbia",right,187,80,no
+T. Lemar,Atlético Madrid,"LCMF, LW, LCMF",25,25000000,2023-06-30,23,1273,1,1.43,Guadeloupe,"Guadeloupe, France",left,171,66,no
+Jordi Alba,Barcelona,"LB, LWB",32,25000000,2024-06-30,25,2300,3,1.45,Spain,Spain,left,170,68,no
+C. Lenglet,Barcelona,"LCB, LCB",25,25000000,2026-06-30,25,1939,1,1.57,France,France,left,186,81,no
+R. Araújo,Barcelona,"RCB, CB",22,25000000,2023-06-30,15,1070,1,0.84,Uruguay,Uruguay,right,188,79,no
+S. Dest,Barcelona,"RB, RWB",20,25000000,2025-06-30,22,1556,2,1.45,Netherlands,"Netherlands, USA",right,175,62,no
+K. Benzema,Real Madrid,CF,33,25000000,2022-06-30,24,2234,17,14.66,France,"France, Algeria",both,185,81,no
+Paco Alcácer,Villarreal,CF,27,22000000,2025-06-30,18,1142,5,6.79,Spain,Spain,right,175,70,no
+Sergio Canales,Real Betis,"LDMF, LAMF, AMF",30,20000000,2023-06-30,22,1893,7,5.12,Spain,Spain,left,176,65,no
+Yeray Álvarez,Athletic Bilbao,"RCB, LCB",26,20000000,2026-06-30,19,1765,1,0.35,Spain,Spain,right,182,78,no
+Unai Núñez,Athletic Bilbao,RCB,24,20000000,2025-06-30,16,1397,1,0.43,Spain,Spain,right,186,81,no
+S. Chukwueze,Villarreal,"RW, RWF",21,20000000,2023-06-30,22,1079,1,2.03,Nigeria,Nigeria,left,172,70,no
+K. Trippier,Atlético Madrid,"RB, RB, RWB",30,20000000,2022-06-30,18,1730,0,0.13,England,England,right,173,69,no
+D. Dakonam,Getafe,"RCB, LCB",29,20000000,2023-06-30,24,2261,0,0,Togo,Togo,both,187,72,no
+M. Arambarri,Getafe,RCMF,25,20000000,2023-06-30,26,2466,3,1.84,Uruguay,Uruguay,right,175,74,no
+Marc Cucurella,Getafe,LW,22,20000000,2024-06-30,27,2576,3,2.23,Spain,Spain,left,172,66,no
+Bryan Gil,Eibar,"LW, LAMF",20,20000000,2023-06-30,21,1822,3,2.57,Spain,Spain,left,175,65,yes
+Portu,Real Sociedad,"RW, RWF, RAMF",28,20000000,2024-06-30,27,1704,7,3.68,Spain,Spain,right,167,66,no
+Álex Remiro,Real Sociedad,GK,26,20000000,2023-06-30,28,2675,0,0,Spain,Spain,right,192,79,no
+R. Le Normand,Real Sociedad,"LCB, RCB",24,20000000,2024-06-30,24,2060,0,0.87,France,France,right,187,81,no
+Igor Zubeldía,Real Sociedad,"RCB, LCB",23,20000000,2024-06-30,20,1766,0,1.17,Spain,Spain,right,181,73,no
+R. Tapia,Celta de Vigo,"DMF, RCMF",25,20000000,2024-06-30,26,2348,0,1.04,Peru,"Peru, Netherlands",right,185,80,no
+G. Rodríguez,Real Betis,"RDMF, LCMF, RCMF",26,18000000,2024-06-30,25,2094,1,1.03,Argentina,Argentina,right,185,80,no
+N. Maksimović,Getafe,"LCMF, RCMF",26,18000000,2024-06-30,26,2100,1,1.35,Serbia,Serbia,right,189,78,no
+Bono,Sevilla,GK,29,18000000,2024-06-30,24,2308,1,0.41,Canada,"Canada, Morocco",right,192,78,no
+Suso,Sevilla,"RWF, RW, RAMF",27,17000000,2025-06-30,24,1576,3,1.49,Spain,Spain,left,177,70,no
+Yuri Berchiche,Athletic Bilbao,LB,31,16000000,2022-06-30,22,1733,1,1.09,Spain,Spain,left,181,79,no
+Aritz Elustondo,Real Sociedad,RCB,26,15000000,2024-06-30,14,1221,0,0.5,Spain,Spain,right,180,71,no
+William Carvalho,Real Betis,"LDMF, RCMF, LCMF",28,15000000,2023-06-30,21,1150,2,1.03,Angola,"Angola, Portugal",right,187,79,no
+Álex Berenguer,Athletic Bilbao,"LAMF, RW, LW",25,15000000,2024-06-30,25,1670,7,5.15,Spain,Spain,right,175,73,no
+Kang-In Lee,Valencia,"CF, AMF",20,15000000,2022-06-30,20,1076,0,0.99,Korea Republic,Korea Republic,left,173,61,no
+Gabriel Paulista,Valencia,"RCB, LCB",30,15000000,2024-06-30,22,2063,2,1.06,Brazil,"Brazil, Spain",right,185,72,no
+Gonçalo Guedes,Valencia,"LW, CF",24,15000000,2023-06-30,21,1490,2,2.11,Portugal,Portugal,right,179,70,no
+Y. Herrera,Granada,"RCMF, RCMF",23,15000000,2021-06-30,25,1916,3,3,Venezuela,Venezuela,right,184,75,yes
+L. Suárez,Atlético Madrid,CF,34,15000000,2022-06-30,25,2049,19,11.23,Uruguay,Uruguay,right,182,83,no
+Felipe,Atlético Madrid,"CB, LCB",31,15000000,2022-06-30,22,1592,0,0.77,Brazil,Brazil,right,190,84,no
+E. Bardhi,Levante,"LW, LCMF, RW",25,15000000,2022-06-30,17,1169,1,2.63,North Macedonia,North Macedonia,right,169,64,no
+Martín Zubimendi,Real Sociedad,"DMF, RDMF, RCMF",22,15000000,2025-06-30,22,1285,0,0.4,Spain,Spain,right,181,74,no
+Lucas Vázquez,Real Madrid,"RB, RWF",29,15000000,2021-06-30,22,1821,2,1.19,Spain,Spain,right,173,70,no
+Iker Muniain,Athletic Bilbao,"AMF, LW, RAMF",28,14000000,2024-06-30,26,1920,5,4.31,Spain,Spain,right,170,66,no
+Sergio Ramos,Real Madrid,LCB,34,14000000,2021-06-30,15,1356,2,3.28,Spain,Spain,right,184,82,no
+M. Acuña,Sevilla,LB,29,14000000,2024-06-30,21,1685,0,0.66,Argentina,Argentina,left,172,69,no
+Óliver Torres,Sevilla,"LCMF, AMF, RCMF",26,13000000,2024-06-30,25,1299,0,0.53,Spain,Spain,right,178,70,no
+J. Hernández,Getafe,"CF, RW",21,12000000,2021-06-30,21,1507,2,3.53,Colombia,Colombia,right,176,73,yes
+P. Estupiñán,Villarreal,LB,23,12000000,2027-06-30,22,1088,0,0.54,Ecuador,"Ecuador, Spain",left,175,78,no
+Alfonso Pedraza,Villarreal,LB,24,12000000,2025-06-30,23,1700,1,0.83,Spain,Spain,left,184,73,no
+Rui Silva,Granada,GK,27,12000000,2021-06-30,27,2616,0,0,Portugal,Portugal,right,189,85,no
+Domingos Duarte,Granada,"RCB, LCB, RCB",26,12000000,2023-06-30,25,2169,1,1.13,Portugal,Portugal,right,192,80,no
+L. de Jong,Sevilla,CF,30,12000000,2023-06-30,25,1093,4,3.23,Netherlands,Netherlands,right,188,86,no
+Gerard Piqué,Barcelona,"RCB, LCB",34,12000000,2024-06-30,11,987,0,0.45,Spain,Spain,right,194,85,no
+Santi Mina,Celta de Vigo,CF,25,12000000,2024-06-30,25,1841,7,5.51,Spain,Spain,right,181,77,no
+Brais Méndez,Celta de Vigo,"RAMF, RW, CF",24,12000000,2024-06-30,24,1931,5,4.26,Spain,Spain,left,187,76,no
+Manu Trigueros,Villarreal,"RCMF, RW, RCMF",29,11000000,2022-06-30,26,2006,1,2.87,Spain,Spain,right,178,75,no
+Luis Suárez,Granada,"CF, LW",23,10000000,2025-06-30,19,1241,5,5.37,Colombia,"Colombia, Spain",right,185,74,no
+Marc Bartra,Real Betis,"RCB, LCB",30,10000000,2023-06-30,13,1243,0,1.13,Spain,Spain,right,184,70,no
+Unai López,Athletic Bilbao,"RDMF, RCMF",25,10000000,2022-06-30,18,1090,3,0.77,Spain,Spain,right,170,68,no
+Rubén García,Osasuna,"LW, RW, CF",27,10000000,2024-06-30,28,2232,3,2.5,Spain,Spain,right,171,72,no
+Sergio Asenjo,Villarreal,GK,31,10000000,2022-06-30,28,2698,0,0,Spain,Spain,right,189,87,no
+Dani Parejo,Villarreal,"LCMF, LCMF, RCMF",31,10000000,2024-06-30,26,2488,3,1.73,Spain,Spain,right,182,74,no
+J. Foyth,Villarreal,"RB, DMF, RCMF",23,10000000,2023-06-30,13,967,0,0.11,Argentina,"Argentina, Spain",right,187,69,yes
+D. Machís,Granada,"LW, RW, LAMF",28,10000000,2023-06-30,22,1534,2,3.44,Venezuela,"Venezuela, Spain",right,170,68,no
+Kenedy,Granada,"LW, RW, RAMF",25,10000000,2022-06-30,24,1374,3,2.21,Brazil,Brazil,left,182,77,yes
+M. Diakhaby,Valencia,"RCB, LCB",24,10000000,2023-06-30,18,1602,1,0.54,France,"France, Guinea",right,189,78,no
+U. Račić,Valencia,"LCMF, RCMF",23,10000000,2024-06-30,21,1635,1,2.06,Serbia,Serbia,right,193,81,no
+Y. Musah,Valencia,"RW, LW",18,10000000,2026-06-30,25,1372,1,0.41,England,"England, Ghana",right,178,71,no
+I. Rakitić,Sevilla,"LCMF, LCMF, RCMF",33,10000000,2024-06-30,27,1762,1,2.15,Switzerland,"Switzerland, Croatia",right,184,78,no
+M. Dmitrović,Eibar,GK,29,10000000,2021-06-30,27,2563,1,1.66,Serbia,Serbia,left,194,94,no
+Fernando Pacheco,Deportivo Alavés,GK,28,10000000,2023-06-30,28,2694,0,0,Spain,Spain,left,187,84,no
+Roger Martí,Levante,CF,30,10000000,2024-06-30,24,1667,11,8.21,Spain,Spain,right,179,74,no
+Sergio Busquets,Barcelona,"DMF, RDMF, RCMF",32,10000000,2023-06-30,26,1836,0,0.08,Spain,Spain,right,189,76,no
+Andoni Gorosabel,Real Sociedad,RB,24,10000000,2024-06-30,23,1824,0,0.66,Spain,Spain,right,174,70,no
+Óscar Mingueza,Barcelona,"RB, RCB, RCB",21,10000000,2021-06-30,19,1502,1,0.5,Spain,Spain,right,184,75,no
+L. Modrić,Real Madrid,"RCMF, LCMF, RCMF",35,10000000,2021-06-30,27,2184,3,2.92,Croatia,Croatia,right,172,66,no
+Iago Aspas,Celta de Vigo,CF,33,10000000,2023-06-30,24,2236,9,8.06,Spain,Spain,left,176,67,no
+Nacho Fernández,Real Madrid,"LCB, RB",31,10000000,2022-06-30,15,1372,0,0.53,Spain,Spain,right,180,76,no
+Denis Suárez,Celta de Vigo,"AMF, LCMF",27,10000000,2023-06-30,25,2127,0,0.61,Spain,Spain,right,178,66,no
+David Soria,Getafe,GK,27,9000000,2022-06-30,19,1839,0,0,Spain,Spain,right,192,85,no
+M. Braithwaite,Barcelona,"CF, LWF, LAMF",29,9000000,2024-06-30,24,1175,2,6.08,Denmark,"Denmark, Guyana",right,177,73,no
+A. Mandi,Real Betis,RCB,29,8000000,2021-06-30,22,1984,3,2.02,Algeria,Algeria,right,184,78,no
+Moi Gómez,Villarreal,"LW, LWF",26,8000000,2025-06-30,25,2102,3,3.61,Spain,Spain,right,176,73,no
+M. Olivera,Getafe,LB,23,8000000,2023-06-30,23,2033,0,0.94,Uruguay,"Uruguay, Spain",left,184,78,no
+Aitor Fernández,Levante,GK,29,8000000,2023-06-30,24,2292,0,0,Spain,Spain,right,182,78,no
+Rúben Vezo,Levante,LCB,26,8000000,2024-06-30,23,1868,1,0.55,Portugal,"Portugal, Cape Verde Islands",right,182,80,no
+Jorge De Frutos,Levante,"RW, LW",24,8000000,2025-06-30,27,1423,3,2.38,Spain,Spain,right,176,71,no
+David García,Osasuna,LCB,27,7500000,2022-06-30,26,2483,1,1.1,Spain,Spain,right,185,72,no
+Cristian Tello,Real Betis,"LAMF, LW",29,7500000,2022-06-30,21,965,4,1.42,Spain,Spain,right,178,65,no
+D. Wass,Valencia,"RB, RW, LCMF",31,7500000,2022-06-30,27,2458,3,1.61,Denmark,Denmark,right,181,74,no
+Hugo Guillamón,Valencia,LCB,21,7500000,2023-06-30,17,1434,1,0.56,Spain,Spain,right,182,65,no
+Juan Miranda,Real Betis,LB,21,7000000,2023-06-30,15,1218,1,0.5,Spain,Spain,left,185,76,yes
+A. Budimir,Osasuna,CF,29,7000000,2023-06-30,20,1121,6,3.9,Bosnia and Herzegovina,"Bosnia and Herzegovina, Croatia",left,190,75,yes
+Ander Capa,Athletic Bilbao,RB,29,7000000,2022-06-30,25,2056,2,1.98,Spain,Spain,right,175,75,no
+Rubén Blanco,Celta de Vigo,GK,25,7000000,2023-06-30,19,1748,0,0,Spain,Spain,right,189,80,no
+Álex Fernández,Cádiz,"LW, LCMF, RW",28,7000000,2022-06-30,25,2083,4,3.41,Spain,Spain,right,182,72,no
+J. Murillo,Celta de Vigo,"LCB, CB",28,7000000,2023-06-30,26,2438,1,0.37,Spain,Spain,right,184,78,yes
+N. Araújo,Celta de Vigo,"RCB, LCB, RCB",29,7000000,2023-06-30,26,2106,0,0.5,Mexico,Mexico,right,188,87,no
+J. Aidoo,Celta de Vigo,"RCB, RCB",25,7000000,2024-06-30,19,961,0,0.4,Ghana,Ghana,right,184,80,no
+A. Sanabria,Torino,CF,24,6500000,2025-06-30,16,996,3,4.57,Paraguay,"Paraguay, Spain",right,180,70,no
+Álex Moreno,Real Betis,LB,27,6000000,2024-06-30,18,1506,0,0.97,Spain,Spain,left,179,68,no
+Roberto Torres,Osasuna,RW,32,6000000,2023-06-30,25,1501,4,3.21,Spain,Spain,right,178,72,no
+Rafa Mir,Huesca,CF,23,6000000,2022-06-30,28,2130,8,12.18,Spain,Spain,right,191,87,yes
+Javi Galán,Huesca,"LB, LB, LWB",26,6000000,2022-06-30,28,2514,1,0.13,Spain,Spain,left,172,70,no
+Javi Ontiveros,Huesca,"LW, LAMF",23,6000000,2024-06-30,20,979,2,2.39,Spain,Spain,right,175,75,yes
+Aihen Muñoz,Real Sociedad,LB,23,6000000,2022-06-30,15,1251,0,0.46,Spain,Spain,left,175,68,no
+Mario Gaspar,Villarreal,RB,30,6000000,2023-06-30,17,1406,0,0.42,Spain,Spain,right,180,77,no
+Thierry Correia,Valencia,RB,22,6000000,2024-06-30,21,1663,0,0.16,Portugal,"Portugal, Cape Verde Islands",right,179,65,no
+L. Olaza,Real Valladolid,"LB, LB",26,6000000,2023-06-30,24,2288,0,0.65,Uruguay,Uruguay,left,173,70,yes
+S. Weissman,Real Valladolid,CF,25,6000000,2024-06-30,24,1609,4,3.52,Israel,Israel,right,174,69,no
+José Luis Morales,Levante,"LW, CF",33,6000000,,28,1946,11,5.39,Spain,Spain,right,180,70,no
+Ander Guevara,Real Sociedad,"DMF, RCMF, RDMF",23,6000000,2024-06-30,22,1416,0,0.03,Spain,Spain,right,180,73,no
+Luis Milla,Granada,"LCMF, RCMF, LCMF",26,5000000,2024-06-30,16,1331,1,0.41,Spain,Spain,right,175,67,no
+Gonzalo Melero,Levante,"LCMF, CF",27,5000000,2023-06-30,21,1380,4,2.46,Spain,Spain,right,183,77,no
+Unai Vencedor,Athletic Bilbao,"RCMF, RDMF",20,5000000,,20,1206,0,0.26,Spain,Spain,right,176,70,no
+J. Calleri,Osasuna,CF,27,5000000,2021-06-30,22,1444,4,5.65,Argentina,"Argentina, Italy",right,173,70,yes
+David Silva,Real Sociedad,"RCMF, RCMF, AMF",35,5000000,2022-06-30,17,1196,1,1.81,Spain,Spain,left,170,67,no
+Antonio Puertas,Granada,"RW, LW",29,5000000,2024-06-30,26,1599,1,2.32,Spain,Spain,right,183,77,no
+Jaume Doménech,Valencia,GK,30,5000000,2023-06-30,23,2232,0,0,Spain,Spain,right,185,73,no
+Jesús Vallejo,Granada,"LCB, LCB, RCB",24,5000000,2025-06-30,17,1196,0,0,Spain,Spain,right,184,79,yes
+Raúl Guti,Elche,RCMF,24,5000000,2025-06-30,27,2276,2,1.56,Spain,Spain,right,177,74,no
+Jaime Mata,Getafe,CF,32,5000000,2021-06-30,24,1491,5,5.88,Spain,Spain,right,185,79,no
+Carlos Neva,Granada,"LB, LB",24,5000000,,20,1843,0,0.57,Spain,Spain,left,174,64,no
+Víctor Laguardia,Deportivo Alavés,RCB,31,5000000,2022-06-30,24,2029,0,1.14,Spain,Spain,right,185,83,no
+Lucas Pérez,Deportivo Alavés,CF,32,5000000,2022-06-30,20,1340,4,5.65,Spain,Spain,left,180,82,no
+Álex Pozo,Eibar,"RB, RW",22,5000000,2023-06-30,23,1881,0,0.18,Spain,Spain,right,174,62,yes
+M. Malsa,Levante,"LCMF, RCMF",25,5000000,2024-06-30,26,1785,0,0.98,France,"France, Martinique",right,178,69,no
+Hugo Mallo,Celta de Vigo,RB,29,5000000,2023-06-30,24,2315,2,2.03,Spain,Spain,right,173,69,no
+Rubén Duarte,Deportivo Alavés,LB,25,4500000,2023-06-30,25,2265,0,0.29,Spain,Spain,left,179,73,no
+F. Lejeune,Deportivo Alavés,LCB,29,4200000,2022-06-30,25,2354,0,0.35,France,France,right,188,81,yes
+Sergio Herrera,Osasuna,GK,27,4000000,2023-06-30,25,2376,0,0,Spain,Spain,right,192,82,no
+Joel Robles,Real Betis,GK,30,4000000,2022-06-30,18,1725,0,0,Spain,Spain,right,195,78,no
+Dani García,Athletic Bilbao,"LCMF, LDMF, RDMF",30,4000000,2022-06-30,22,1654,0,0.47,Spain,Spain,right,180,81,no
+Álvaro Fernández,Huesca,GK,22,4000000,2023-06-30,16,1540,0,0,Spain,Spain,right,186,75,no
+Rubén Alcaraz,Real Valladolid,LCMF,29,4000000,2023-06-30,22,1692,1,1.06,Spain,Spain,right,183,81,no
+Ángel Rodríguez,Getafe,CF,33,4000000,2021-06-30,25,1224,5,5.25,Spain,Spain,right,172,65,no
+Fernando,Sevilla,DMF,33,4000000,2022-06-30,22,1915,0,0,Brazil,"Brazil, Portugal",right,183,76,no
+Paulo Oliveira,Eibar,RCB,30,4000000,2021-06-30,21,1943,0,0.51,Portugal,Portugal,right,187,82,no
+Sergi Guardiola,Real Valladolid,CF,29,4000000,2023-06-30,22,1563,1,4.18,Spain,Spain,left,183,78,no
+Joselu,Deportivo Alavés,CF,30,4000000,2022-06-30,27,2351,7,12,Germany,"Germany, Spain",right,192,84,no
+R. Battaglia,Deportivo Alavés,"RCMF, LCMF, DMF",29,4000000,2023-06-30,23,1882,0,0.92,Argentina,"Argentina, Italy",right,187,78,yes
+Edu Expósito,Eibar,"LCMF, LCMF, LDMF",24,4000000,2024-06-30,26,2233,0,2.81,Spain,Spain,right,178,68,no
+Vicente Iborra,Villarreal,"DMF, RCMF, LCMF",33,3500000,2023-06-30,13,991,0,0.14,Spain,Spain,right,190,80,no
+Raúl García,Athletic Bilbao,"CF, AMF, RAMF",34,3500000,,26,1617,4,5.02,Spain,Spain,right,184,83,no
+Asier Villalibre,Athletic Bilbao,"CF, AMF",23,3500000,2023-06-30,25,1032,3,2.57,Spain,Spain,left,184,86,no
+Fede San Emeterio,Real Valladolid,"RCMF, DMF",24,3500000,2023-06-30,20,1281,0,0.19,Spain,Spain,right,176,74,no
+Kévin Rodrigues,Eibar,"LB, RW, LAMF",27,3500000,2022-06-30,16,997,1,0.94,France,"France, Portugal",left,170,68,yes
+Rubén Rochina,Levante,"RW, LW, RCMF",30,3500000,2021-06-30,20,1223,0,1.81,Spain,Spain,left,182,76,no
+E. Rigoni,Elche,"LW, RW",28,3200000,2021-06-30,18,1079,1,1.28,Argentina,"Argentina, Italy",left,180,71,yes
+Martín Aguirregabiria,Deportivo Alavés,"RB, RW, LB",24,3200000,2022-06-30,18,1052,0,0.23,Spain,Spain,right,180,75,no
+N. Radoja,Levante,"RCMF, LCMF, DMF",28,3000000,2022-06-30,19,1109,0,0.19,Serbia,Serbia,right,186,77,no
+Aridane Hernández,Osasuna,RCB,31,3000000,2023-06-30,18,1580,0,0.15,Spain,"Spain, Equatorial Guinea",right,186,77,no
+Pablo Maffeo,Huesca,"RB, RB, RWB",23,3000000,2023-06-30,19,1644,1,0.49,Spain,Spain,right,172,70,yes
+Jon Moncayola,Osasuna,"RCMF, LCMF, DMF",22,3000000,2024-06-30,27,2138,1,1.09,Spain,Spain,right,184,73,no
+Óscar Plano,Real Valladolid,"LW, RW",29,3000000,2023-06-30,27,1840,3,2.73,Spain,Spain,left,178,73,no
+Joaquín Fernández,Real Valladolid,"RCB, LCB",24,3000000,2023-06-30,19,1729,1,0.47,Spain,Spain,right,190,71,no
+D. Foulquier,Granada,"RB, RB",27,3000000,2023-06-30,23,1975,0,0.34,France,"France, Guadeloupe",right,183,78,no
+Fali,Cádiz,"RCB, LCMF",27,3000000,2024-06-30,25,2056,0,0.37,Spain,Spain,right,186,84,no
+J. Ledesma,Cádiz,GK,28,3000000,2022-06-30,25,2426,0,0,Argentina,"Argentina, Italy",right,186,83,yes
+M. Gonalons,Granada,"DMF, LCMF",32,3000000,2023-06-30,16,998,0,0.25,France,France,right,187,76,no
+Jesús Navas,Sevilla,RB,35,3000000,2021-06-30,25,2141,0,0.57,Spain,Spain,right,172,60,no
+I. Marcone,Elche,"LCMF, DMF",30,3000000,2023-06-30,23,2093,0,0.21,Argentina,"Argentina, Italy",right,182,76,yes
+L. Boyé,Elche,CF,25,3000000,2022-06-30,25,2029,5,4.5,Argentina,"Argentina, Italy",right,183,80,yes
+Roque Mesa,Real Valladolid,RCMF,31,3000000,2023-06-30,16,1212,1,1.3,Spain,Spain,right,172,70,no
+E. Burgos,Eibar,"LCB, RCB",29,3000000,2022-06-30,13,1087,3,3.28,Argentina,"Argentina, Spain",right,190,84,no
+Carlos Clerc,Levante,LB,29,3000000,2022-06-30,27,2261,0,0.43,Spain,Spain,left,182,72,no
+D. Siovas,Huesca,"LCB, CB",32,2800000,2022-06-30,27,2583,2,1.86,Greece,Greece,left,194,83,no
+Salvi Sánchez,Cádiz,RW,29,2800000,2022-06-30,23,1683,2,1.61,Spain,Spain,right,175,64,no
+Jordi Masip,Real Valladolid,GK,32,2800000,2022-06-30,18,1721,0,0,Spain,Spain,right,180,68,no
+Y. Muto,Eibar,"CF, RW",28,2800000,2022-06-30,22,1121,1,3.03,Japan,Japan,right,178,72,yes
+E. Cabaco,Getafe,"RCB, LCB",25,2800000,2024-06-30,19,1422,0,0.29,Uruguay,"Uruguay, Italy",right,185,76,no
+Víctor Ruíz,Real Betis,LCB,32,2500000,2021-06-30,19,1541,1,0.59,Spain,Spain,left,184,78,no
+Óscar De Marcos,Athletic Bilbao,"RW, RB",31,2500000,,17,1014,1,1.07,Spain,Spain,right,182,78,no
+Juan Cruz,Osasuna,LB,28,2500000,2023-06-30,20,1693,0,0,Spain,Spain,left,180,79,no
+A. Nyom,Getafe,"RW, RB, LB",32,2500000,2021-06-30,24,1878,0,0.22,France,"France, Cameroon",right,188,78,no
+Raúl Albiol,Villarreal,RCB,35,2500000,2022-06-30,27,2574,0,0.8,Spain,Spain,right,190,82,no
+A. Lozano,Cádiz,CF,27,2500000,2023-06-30,21,1161,3,5.13,Honduras,Honduras,right,183,74,no
+Jorge Miramón,Levante,RB,31,2200000,2021-06-30,22,1635,0,0.72,Spain,Spain,right,175,74,no
+Aitor Ruibal,Real Betis,"RAMF, LAMF, RW",24,2000000,2022-06-30,19,1173,1,1.18,Spain,Spain,right,180,75,no
+Mikel Vesga,Athletic Bilbao,"LDMF, LCMF",27,2000000,2024-06-30,21,1277,0,1.33,Spain,Spain,left,191,84,no
+Jorge Pulido,Huesca,"RCB, RCB",29,2000000,2022-06-30,24,2207,1,1.11,Spain,Spain,right,186,72,no
+Nacho Vidal,Osasuna,RB,26,2000000,2022-06-30,26,1831,0,0.47,Spain,Spain,right,180,73,no
+D. Suárez,Getafe,RB,32,2000000,2022-06-30,22,1926,1,0.37,Uruguay,"Uruguay, Spain",right,172,61,no
+Nacho Monreal,Real Sociedad,LB,35,2000000,2021-06-30,16,1350,1,1.01,Spain,Spain,left,179,77,no
+A. Espino,Cádiz,LB,29,2000000,2023-06-30,25,2214,0,0.17,Uruguay,Uruguay,left,172,71,no
+Y. Eteki,Granada,"DMF, LCMF, RDMF",23,2000000,2022-06-30,19,1015,0,0.22,Spain,Spain,right,182,76,no
+Edgar Badía,Elche,GK,29,2000000,2022-06-30,28,2701,0,0,Spain,Spain,right,180,79,no
+Fidel,Elche,"LW, LB, LCMF",31,2000000,2022-06-30,21,1768,4,2.39,Spain,Spain,left,180,75,no
+T. Inui,Eibar,"LW, RW, LWF",32,2000000,2022-06-30,23,1658,1,2.4,Japan,Japan,right,169,63,no
+Kike García,Eibar,CF,31,2000000,2023-06-30,27,2327,8,10.35,Spain,Spain,right,186,79,no
+Edgar Méndez,Deportivo Alavés,"RW, CF, RWB",29,2000000,2022-06-30,25,1750,4,3.06,Spain,Spain,right,187,78,no
+Ximo Navarro,Deportivo Alavés,RB,31,2000000,2021-06-30,21,1755,1,0.56,Spain,Spain,right,176,75,no
+Luis Rioja,Deportivo Alavés,LW,27,2000000,2023-06-30,25,1679,2,2.07,Spain,Spain,right,176,70,no
+A. Guardado,Real Betis,"LDMF, LW, LAMF",34,1800000,2022-06-30,17,1033,0,0.36,Mexico,"Mexico, Spain",left,169,60,no
+Lucas Torró,Osasuna,"LCMF, DMF, RCMF",26,1800000,2024-06-30,16,1011,0,0.79,Spain,Spain,right,190,77,no
+J. Jønsson,Cádiz,"RCMF, LCMF",28,1800000,2022-06-30,26,1983,0,0.43,Denmark,Denmark,right,182,78,no
+Iza Carcelén,Cádiz,RB,27,1800000,2023-06-30,23,2016,0,0.15,Spain,Spain,right,178,75,no
+Nacho Martínez,Real Valladolid,LB,32,1800000,2022-06-30,19,1646,0,0.34,Spain,Spain,left,173,65,no
+Pedro Bigas,Eibar,"LCB, LB",30,1800000,2022-06-30,20,1618,0,0.94,Spain,Spain,left,181,82,no
+Pablo Hervías,Real Valladolid,"RB, RW",27,1500000,2022-06-30,20,1076,0,0.4,Spain,Spain,right,174,70,no
+Joaquín,Real Betis,"RAMF, RW",39,1500000,2021-06-30,20,1000,2,0.9,Spain,Spain,right,179,75,no
+Borja García,Huesca,"LW, LCMF, AMF",30,1500000,2023-06-30,18,1150,1,1.22,Spain,Spain,right,175,72,no
+Jorge Molina,Granada,"CF, AMF",38,1500000,2022-06-30,23,1139,4,3.77,Spain,Spain,right,188,72,no
+Tete Morente,Elche,"RW, LW",24,1500000,2024-06-30,24,1777,2,1.69,Spain,Spain,right,180,76,no
+F. Orellana,Real Valladolid,"RW, LW",35,1500000,2022-06-30,25,1856,4,4.6,Chile,"Chile, Spain",right,169,64,no
+Sergio Álvarez,Eibar,"DMF, RDMF, RCMF",29,1500000,2022-06-30,21,1289,0,0.42,Spain,Spain,right,183,73,no
+Dani Gómez,Levante,CF,22,1500000,2025-06-30,25,1253,2,2.86,Spain,Spain,right,178,69,no
+Nolito,Celta de Vigo,"LAMF, LW",34,1500000,2021-06-30,26,1986,5,5.71,Spain,Spain,right,175,73,no
+Sergio Postigo,Levante,"RCB, LCB",32,1200000,2021-06-30,17,1282,0,0.05,Spain,Spain,right,185,78,no
+S. Okazaki,Huesca,CF,34,1200000,2021-06-30,21,1112,1,2.33,Japan,Japan,right,175,70,no
+Álvaro Negredo,Cádiz,CF,35,1200000,2021-06-30,25,1846,7,7.22,Spain,Spain,left,186,84,no
+Juan Cala,Cádiz,LCB,31,1200000,2024-06-30,23,2059,1,1.14,Spain,Spain,right,185,78,no
+Roberto Soldado,Granada,CF,35,1200000,2021-06-30,23,1237,6,3.67,Spain,Spain,right,180,72,no
+Ángel Montoro,Granada,"LCMF, AMF, RCMF",32,1200000,2022-06-30,16,1113,1,1.52,Spain,Spain,right,181,72,no
+Anaitz Arbilla,Eibar,"LB, LCB, RB",33,1200000,2021-06-30,24,2051,0,1.23,Spain,Spain,right,178,76,no
+Tomás Pina,Deportivo Alavés,"LCMF, RCMF",33,1200000,2021-06-30,23,1870,1,1.01,Spain,Spain,right,185,80,no
+F. Roncaglia,Osasuna,RB,33,1000000,2021-06-30,15,1188,1,0.3,Argentina,"Argentina, Italy",right,179,76,no
+C. Bravo,Real Betis,GK,37,1000000,2022-06-30,10,974,0,0,Chile,"Chile, Spain",right,184,80,no
+David Ferreiro,Huesca,"RW, RCMF, RAMF",32,1000000,,27,1857,2,1.38,Spain,Spain,right,170,63,no
+Pablo Ínsua,Huesca,"RCB, LCB",27,1000000,2023-06-30,15,1250,0,0.09,Spain,Spain,right,187,80,no
+Unai García,Osasuna,RCB,29,1000000,2023-06-30,13,977,0,0.16,Spain,Spain,right,186,81,no
+Kike Barja,Osasuna,"RW, LW",23,1000000,2023-06-30,25,991,1,1.5,Spain,Spain,right,178,69,no
+Jaime Seoane,Huesca,"LCMF, DMF, LCMF",24,1000000,2022-06-30,21,1508,1,1.3,Spain,Spain,right,177,70,no
+Marcos Mauro,Cádiz,"RCB, LCB",30,1000000,2022-06-30,16,1321,0,0.1,Argentina,"Argentina, Spain",right,190,84,no
+Alberto Perea,Cádiz,LW,30,1000000,2023-06-30,22,1389,1,1.86,Spain,Spain,right,177,74,no
+Pere Milla,Elche,"CF, LW, AMF",28,1000000,2022-06-30,23,1429,2,3.17,Spain,Spain,left,184,72,no
+Josán,Elche,"RW, RB",31,1000000,2022-06-30,24,1613,4,1.33,Spain,Spain,right,175,68,no
+Josema,Elche,"LB, LCB, LCB",24,1000000,2023-06-30,24,1875,0,0.27,Spain,Spain,left,182,81,no
+Dani Calvo,Elche,"LCB, RCB, LCB",26,1000000,2021-06-30,14,1044,2,0.55,Spain,Spain,right,190,82,no
+Bruno González,Real Valladolid,"RCB, LCB",30,1000000,2022-06-30,23,2031,1,0.31,Spain,Spain,right,184,83,no
+Luis Pérez,Real Valladolid,RB,26,900000,2023-06-30,18,1192,0,0,Spain,Spain,right,173,68,no
+Antonio Barragán,Elche,"RB, RCB",33,800000,2021-06-30,21,1902,0,0.44,Spain,Spain,right,182,76,no
+Jairo Izquierdo,Cádiz,"LW, LB, RW",27,800000,2022-06-30,21,1023,1,0.6,Spain,Spain,left,165,64,yes
+Germán Sánchez,Granada,"LCB, RCB, CB",34,800000,2022-06-30,24,1980,3,1.89,Spain,Spain,right,187,82,no
+Gonzalo Verdú,Elche,"RCB, CB",32,800000,2022-06-30,27,2604,0,0.53,Spain,Spain,right,189,80,no
+Kike Pérez,Real Valladolid,"LCMF, CF, RCMF",24,800000,2025-06-30,21,1115,0,1.73,Spain,Spain,left,184,78,no
+P. Diop,Eibar,"RCMF, RCMF",35,800000,2021-06-30,24,1859,1,1.32,Senegal,"Senegal, France",right,180,77,no
+Manu García,Deportivo Alavés,"LCMF, RCMF",34,800000,2021-06-30,20,1002,0,0.34,Spain,Spain,left,183,75,no
+Pedro Mosquera,Huesca,"DMF, LCMF, LDMF",32,700000,2021-06-30,18,1694,0,0.72,Spain,Spain,left,184,75,no
+Oier Sanjurjo,Osasuna,"RCMF, LCMF",34,700000,2022-06-30,25,1820,0,1.31,Spain,Spain,right,178,72,no
+Roberto Jiménez,Real Valladolid,GK,35,700000,2023-06-30,10,967,0,0,Spain,Spain,right,192,94,no
+Ó. Duarte,Levante,"RCB, CB, LCB",31,700000,2021-06-30,19,1546,1,0.72,Costa Rica,"Costa Rica, Spain",right,186,81,no
+Andrés Fernández,Huesca,GK,34,600000,2023-06-30,12,1144,0,0,Spain,Spain,right,187,82,no
+Iñigo Pérez,Osasuna,"LCMF, LB, LW",33,600000,2022-06-30,21,1345,0,0.4,Spain,Spain,left,178,74,no
+Mikel Rico,Huesca,"RCMF, RCMF, LCMF",36,300000,2021-06-30,23,1767,1,2.48,Spain,Spain,right,178,75,no
